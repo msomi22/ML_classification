@@ -1,25 +1,25 @@
 netSalary|lifeComfortable|hasCar|houseType|isBrokeEndMonth
-9000|no|no|Rent single room|yes
-9000|yes|no|House on ancestral land |yes
-13000|no|no|House on ancestral land |yes
-20000|no|no|House on ancestral land |yes
-30000|yes|no|Rent single room|yes
-35000|no|no|Rent one bed room|yes
-33000|no|no|Rent one bed room|yes
-40000|yes|no|Rent two bed room|yes
-45000|yes|yes|Rent one bed room|yes
-47000|no|yes|Rent single room|yes
-57000|yes|no|Rent one bed room|no
-50000|no|no|Rent two bed room|yes
-87000|yes|no|Rent two bed room|no
-120000|yes|yes|Own a house|yes
-150000|yes|yes|Own a house|no
-149000|yes|yes|Rent three bed room|yes
-200000|yes|yes|Own a house|no
-220000|yes|no|Rent three bed room|no
-250000|yes|yes|Own a house|no
-300000|yes|yes|Own a house|no
-400000|yes|yes|Own a house|no
-500000|yes|yes|Own a house|no
-800000|yes|yes|Own a house|no
-1000000|yes|yes|Own a house|no
+9000|no|no|1 room|yes
+9000|yes|no|1 room|yes
+13000|no|no|2 room|yes
+20000|no|no|1 room|yes
+30000|yes|no|1 room|yes
+35000|no|no|1 room|yes
+33000|no|no|2 room|yes
+40000|yes|no|2 room|yes
+45000|yes|yes|3 room|yes
+47000|no|yes|3 room|yes
+57000|yes|no|2 room|no
+50000|no|no|3 room|yes
+87000|yes|no|4 room|no
+120000|yes|yes|4 room|yes
+150000|yes|yes|4 room|no
+149000|yes|yes|3 room|yes
+200000|yes|yes|2 room|no
+220000|yes|no|5 room|no
+250000|yes|yes|5 room|no
+300000|yes|yes|5 room|no
+400000|yes|yes|5 room|no
+500000|yes|yes|5 room|no
+800000|yes|yes|5 room|no
+1000000|yes|yes|6 room|no
