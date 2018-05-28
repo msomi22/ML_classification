@@ -59,8 +59,14 @@ Y = data["netSalary"]
 clf = svm.SVC(gamma=0.001, C=100) 
 clf.fit(X,Y)
 
+'''
+ [0,1,0,1] - life comfort:yes,has car:no,broke end month:yes, house room: 1 room
+ [0,0,1,2] - life comfort:yes,has car:yes,broke end month: no, house room: 2 room 
+
+'''
+
 #toPred = np.array([0, 1, 0, 1]).reshape(-1, 1)
-toPred = np.array([0, 1, 0, 1]).reshape(1, -1) 
+toPred = np.array([0, 0, 1, 2]).reshape(1, -1)  
 #print toPred   
 
 predOut = clf.predict(toPred) 
